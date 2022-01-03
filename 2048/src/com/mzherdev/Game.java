@@ -8,9 +8,6 @@ import java.awt.*;
 import java.util.*;
 import java.util.List;
 
-/**
- * Created by mzherdev on 18.08.2015.
- */
 public class Game extends javafx.scene.canvas.Canvas {
 
     private Cell[] cells;
